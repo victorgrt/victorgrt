@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![vgoret's 42 stats](https://badge42.vercel.app/api/v2/cldkbnvb500400gla6ri7gbc4/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
 <!--
 **victorgrt/victorgrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
