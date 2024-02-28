@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![<vgoret>'s 42 stats](https://badge.mediaplus.ma/darkblue/<vgoret>)](https://github.com/oakoudad/badge42)
 [![vgoret's 42 stats](https://badge42.vercel.app/api/v2/cldkbnvb500400gla6ri7gbc4/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
 - Pipex :  [![vgoret's 42 pipex Score](https://badge42.vercel.app/api/v2/cldkbnvb500400gla6ri7gbc4/project/3099953)](https://github.com/JaeSeoKim/badge42)
 
